@@ -6042,7 +6042,7 @@ a.badge:hover {
   font-family: 'xkcd';
   font-style: normal;
   font-weight: normal;
-  src: local('xkcd'),url('/fonts/humor-sans.ttf');
+  src: local('xkcd'),url('/cmx.io/fonts/humor-sans.ttf');
 }
 
 body {

@@ -2156,7 +2156,7 @@ window.Modernizr = (function( window, document, undefined ) {
 
   loadDisqus = function() {
     var dsq, wrapper;
-    window.disqus_url = "http://cmx.io/";
+    window.disqus_url = "https://hiibolt.github.io/cmx.io/";
     if (window.gistId) {
       window.disqus_url += "gist/" + window.gistId;
     }
